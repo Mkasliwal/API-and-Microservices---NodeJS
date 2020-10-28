@@ -1,0 +1,16 @@
+{
+  "name": "request-header-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon --watch app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mayur Kasliwal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "user-agents": "^1.0.559"
+  }
+}
